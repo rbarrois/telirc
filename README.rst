@@ -19,8 +19,8 @@ Usage
 Links
 -----
 
-* Source code on GitHub: `https://github.com/rbarrois/telirc`_
-* Available on PyPI: `https://pypi.python.org/pypi/telirc`_
+* Source code on GitHub: https://github.com/rbarrois/telirc
+* Available on PyPI: https://pypi.python.org/pypi/telirc
 
 
 Protocol
